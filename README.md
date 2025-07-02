@@ -27,7 +27,8 @@ This was my **first hands-on AWS deployment**, where I manually configured infra
 
 ## 🖼️ Screenshots
 
-All screenshots of the deployment process can be found in the Screenshots folder.
+All screenshots of the deployment process can be found in the Aws_Deploy-Apk_Project
+/Screenshots/ folder.
 
 ## 💻 Linux Commands Used
 
