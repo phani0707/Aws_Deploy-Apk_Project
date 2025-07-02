@@ -1,0 +1,29 @@
+# Connect to EC2
+ssh -i "keypair.pem" ec2-user@<public-ip>
+
+# Become root
+sudo su -
+
+# Install Apache
+yum install httpd -y
+systemctl enable httpd
+systemctl start httpd
+
+# Move website files
+mv * /var/www/html
+
+# Change file permission if needed
+chmod 400 keypair.pem
+
+# Rename the file as zip file
+
+mv 
+
+# for unzip the file
+
+unzip
+
+# Download any file to Linux sytem
+
+wget
+
